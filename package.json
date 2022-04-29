@@ -1,5 +1,5 @@
 {
-  "name": "@ylehilds/hsl-to-hex",
+  "name": "@lehilds/hsl-to-hex",
   "version": "1.0.1",
   "main": "index.js",
   "scripts": {
