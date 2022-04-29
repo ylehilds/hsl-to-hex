@@ -1,6 +1,6 @@
 {
   "name": "@lehilds/hsl-to-hex",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "scripts": {
     "test": "npm run lint && tap --cov test",
