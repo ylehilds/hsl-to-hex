@@ -1,22 +1,19 @@
 {
   "name": "hsl-to-hex",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "David Mark Clements",
-  "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/davidmarkclements/hsl-to-hex.git"
+    "url": "git+ssh://git@github.com/ylehilds/hsl-to-hex.git"
   },
+  "author": "Lehi Alcantara",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/davidmarkclements/hsl-to-hex/issues"
+    "url": "https://github.com/ylehilds/hsl-to-hex/issues"
   },
-  "homepage": "https://github.com/davidmarkclements/hsl-to-hex#readme",
-  "dependencies": {
-    "hsl-to-rgb-for-reals": "^1.1.0"
-  },
-  "description": ""
+  "homepage": "https://github.com/ylehilds/hsl-to-hex#readme"
 }
